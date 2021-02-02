@@ -8,7 +8,7 @@ namespace Colecciones
         static void Main(string[] args)
         {
 
-            coleccion_ejemplo4();
+            coleccion_ejemplo1();
         }
 
         public static void coleccion_ejemplo1()
